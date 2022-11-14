@@ -8,4 +8,6 @@ from .darts import *
 from .nats import *
 from .mnv3 import *
 from .resnet import *
+from .nbasr import *
+from .nbmacro import *
 # from .transformer import *
